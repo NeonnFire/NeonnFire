@@ -1,104 +1,77 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080018,50:5B00A8,100:00E5FF&height=230&section=header&text=NEONN%20FIRE&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DIGITAL%20OPERATIVE%20%7C%20SYSTEM%20ONLINE&descAlignY=60&descSize=16" width="100%" />
+<img src="assets/neonnfire-cyberpunk-banner.gif" width="100%" alt="NeonnFire animated cyberpunk city banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=ENTERING+THE+DIGITAL+UNDERWORLD...;CODE.+CREATE.+INNOVATE.;WELCOME+TO+NEONN+FIRE." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=IDENTITY+VERIFIED...;WELCOME+TO+THE+NEON+GRID;BUILDING+IN+THE+DIGITAL+AFTERHOURS;SIGNAL+LOCKED+%2F%2F+NEONN+FIRE" alt="Animated cyberpunk terminal text" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NeonnFire&color=ff00cc&style=for-the-badge&label=VISITORS)
+<img src="https://komarev.com/ghpvc/?username=NeonnFire&style=for-the-badge&color=ff00cc&label=VISITORS" alt="Profile views" />
 
 </div>
 
----
+<img src="assets/neonnfire-neon-divider.gif" width="100%" alt="Animated neon divider" />
 
-## ◈  SYSTEM PROFILE
+## ░▒▓ SYSTEM / OPERATOR PROFILE
 
 ```text
-╔══════════════════════════════════════╗
-║           NEONN FIRE                 ║
-╠══════════════════════════════════════╣
-║ ID       : NEONN FIRE                 ║
-║ CLASS    : DEVELOPER                  ║
-║ STATUS   : ONLINE                     ║
-║ MODE     : CYBERPUNK                  ║
-║ MISSION  : BUILD THE FUTURE           ║
-╚══════════════════════════════════════╝
+┌──────────────────────────────────────────────────────┐
+│  NEONN FIRE  //  DIGITAL OPERATIVE                    │
+├──────────────────────────────────────────────────────┤
+│  STATUS       : ONLINE                                │
+│  ENVIRONMENT  : THE NEON GRID                         │
+│  DIRECTIVE    : BUILD  /  EXPERIMENT  /  EVOLVE        │
+│  ACCESS       : PUBLIC REPOSITORIES                   │
+└──────────────────────────────────────────────────────┘
 ```
 
-## ⚡ ABOUT THE OPERATOR
+## ⟁ ABOUT THE OPERATOR
 
-Greetings, stranger.
+Welcome to my corner of the digital underground. This profile is my development log: a place for code, experiments, projects, and new things I'm learning.
 
-Welcome to my digital world.
+**Signal:** curiosity, creativity, and continuous improvement.
 
-I'm a developer passionate about technology,
-programming and building digital experiences.
+<img src="assets/neonnfire-neon-divider.gif" width="100%" alt="Animated neon divider" />
 
-I explore new technologies, experiment with code
-and continuously develop my skills.
+## ⌁ PROJECT ARCHIVE
 
-> "In a world controlled by technology, I choose to create it."
-
----
-
-## 🧬 TECHNOLOGY MATRIX
+Explore the repositories for current builds, experiments, and source code.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,github,vscode&theme=dark" />
+[![Repositories](https://img.shields.io/badge/OPEN-REPOSITORY_ARCHIVE-ff2bd6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonnFire?tab=repositories)
+[![Follow](https://img.shields.io/badge/FOLLOW-NEONN_FIRE-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NeonnFire)
 
 </div>
 
----
-
-## 🚀 PROJECT DATABASE
+## ⌬ LIVE TELEMETRY
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-9D00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonnFire?tab=repositories)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NeonnFire&show_icons=true&hide_border=true&bg_color=080018&title_color=ff2bd6&text_color=c8f7ff&icon_color=00e5ff&ring_color=ff2bd6" alt="GitHub account statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonnFire&layout=compact&hide_border=true&bg_color=080018&title_color=00e5ff&text_color=c8f7ff" alt="Most used languages" />
+
+<img width="92%" src="https://streak-stats.demolab.com?user=NeonnFire&hide_border=true&background=080018&ring=ff2bd6&fire=ff2bd6&currStreakLabel=00e5ff&sideLabels=c8f7ff&currStreakNum=ffffff&sideNums=ffffff&dates=7b83a8" alt="GitHub contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NeonnFire&bg_color=080018&color=c8f7ff&line=00e5ff&point=ff2bd6&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
-Explore my repositories to see my projects, experiments
-and development journey.
+<img src="assets/neonnfire-neon-divider.gif" width="100%" alt="Animated neon divider" />
 
----
-
-## 📊 SYSTEM ANALYTICS
+## ◈ CONNECT / TRANSMISSION
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NeonnFire&show_icons=true&theme=synthwave&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GITHUB-NEONN_FIRE-ff2bd6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonnFire)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonnFire&layout=compact&theme=synthwave&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=NeonnFire&theme=synthwave&hide_border=true" />
-
-</div>
-
----
-
-## 🌌 CONNECTION ESTABLISHED
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-NEONN%20FIRE-FF00CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonnFire)
-
-<br/>
-
-```bash
-> Initializing connection...
-> Identity verified.
-> Welcome to NEONN FIRE.
-> End of transmission.
+```text
+> handshake initiated...
+> identity confirmed: NEONN FIRE
+> encrypted channel open.
+> END OF TRANSMISSION_
 ```
 
-**STAY DIFFERENT. BUILD SOMETHING EXTRAORDINARY.**
+**STAY CURIOUS. KEEP BUILDING. OWN THE NIGHT.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080018,50:5B00A8,100:00E5FF&height=120&section=footer" width="100%" />
+<img src="assets/neonnfire-cyberpunk-banner.gif" width="100%" alt="NeonnFire cyberpunk night city animation" />
 
 </div>
