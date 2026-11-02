@@ -99,14 +99,23 @@ Public repository · 2 forks shown in the supplied profile screenshot
 
 ## `04 // DEVELOPMENT ACTIVITY`
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NeonnFire&show_icons=true&hide_border=true&bg_color=090B1A&title_color=00E5FF&text_color=E9E7FF&icon_color=FF00CC&ring_color=FF00CC" height="165" alt="NeonnFire GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonnFire&layout=compact&hide_border=true&bg_color=090B1A&title_color=00E5FF&text_color=E9E7FF" height="165" alt="Most used languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=NeonnFire&show_icons=true&hide_border=true&bg_color=090B1A&title_color=00E5FF&text_color=E9E7FF&icon_color=FF00CC&ring_color=FF00CC" width="49%" alt="NeonnFire GitHub Statistics" />
 
-<img src="https://streak-stats.demolab.com?user=NeonnFire&hide_border=true&background=090B1A&ring=FF00CC&fire=FF00CC&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9999BB" width="85%" alt="GitHub contribution streak" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NeonnFire&layout=compact&hide_border=true&bg_color=090B1A&title_color=00E5FF&text_color=E9E7FF" width="49%" alt="NeonnFire Most Used Languages" />
 
 </div>
+
+<div align="center">
+
+<a href="https://github.com/NeonnFire">
+<img src="https://img.shields.io/badge/VIEW-LIVE%20CONTRIBUTIONS-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 
 ### `ACTIVITY LOG // NOVEMBER 2026 SNAPSHOT`
 
